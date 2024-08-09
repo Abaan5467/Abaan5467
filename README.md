@@ -7,4 +7,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=daamin909&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true">
   <br>
 </div>
-<h2>About Me.</h2>
