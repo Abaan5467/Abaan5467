@@ -6,3 +6,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abaan5467&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true">
   <br>
 </div>
+<img src="[https://github-readme-streak-stats.herokuapp.com/?user=Abaan5467&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true](https://tenor.com/view/rickroll-roll-rick-never-gonna-give-you-up-never-gonna-gif-22954713)">
