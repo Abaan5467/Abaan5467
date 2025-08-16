@@ -6,4 +6,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abaan5467&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true">
   <br>
 </div>
-<img src="https://media1.tenor.com/m/x8v1oNUOmg4AAAAd/rickroll-roll.gif">
