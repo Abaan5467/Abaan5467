@@ -10,31 +10,27 @@
 
 ## 📊 Stats  
 
-<div align="center">
+<!-- Profile Details -->
+<img alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abaan5467&theme=tokyonight">
+<br>
 
-  <!-- Profile Details -->
-  <img alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abaan5467&theme=tokyonight">
-  <br>
+<!-- Overall Stats -->
+<img alt="Overall Stats" src="https://github-readme-stats.vercel.app/api?username=Abaan5467&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true">
+<br>
 
-  <!-- Overall Stats -->
-  <img alt="Overall Stats" src="https://github-readme-stats.vercel.app/api?username=Abaan5467&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true">
-  <br>
+<!-- Streak Stats -->
+<img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Abaan5467&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true">
+<br>
 
-  <!-- Streak Stats -->
-  <img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Abaan5467&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true">
-  <br>
-
-  <!-- Top Languages -->
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abaan5467&theme=tokyonight&layout=compact">
-  <br>
-
-</div>
+<!-- Top Languages -->
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abaan5467&theme=tokyonight&layout=compact">
+<br>
 
 ---
 
 ## 🛠️ Tech & Tools  
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,python,java,git,github,vscode,linux" />
 </p>
 
@@ -42,7 +38,7 @@
 
 ## 🌐 Connect With Me  
 
-<p align="center">
+<p>
   <a href="https://github.com/Abaan5467"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="mailto:abaan@metfabproducts.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/abaanreshi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
