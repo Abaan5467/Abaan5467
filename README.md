@@ -12,19 +12,15 @@
 
 <!-- Profile Details -->
 <img alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abaan5467&theme=tokyonight">
-<br>
 
 <!-- Overall Stats -->
 <img alt="Overall Stats" src="https://github-readme-stats.vercel.app/api?username=Abaan5467&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true">
-<br>
 
 <!-- Streak Stats -->
 <img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Abaan5467&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true">
-<br>
 
 <!-- Top Languages -->
 <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abaan5467&theme=tokyonight&layout=compact">
-<br>
 
 ---
 
