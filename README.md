@@ -27,7 +27,7 @@
 ## 🛠️ Tech & Tools  
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,express,mongodb,python,git,github,tailwind,linux" />
+  <img src="https://skillicons.dev/icons?i=js,python,mysql,html,css,nodejs,express,mongodb,tailwind,electron,opencv,sklearn,vscode,git,github,arduino,linux" />
 </p>
 
 ---
