@@ -10,12 +10,25 @@
 
 ## 📊 Stats  
 
-<!-- Your existing GitHub Profile Summary Card -->
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abaan5467&theme=tokyonight)
+<div align="center">
 
-![Contributions](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abaan5467&theme=tokyonight)
-![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abaan5467&theme=tokyonight)
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abaan5467&theme=tokyonight)
+  <!-- Profile Details -->
+  <img alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abaan5467&theme=tokyonight">
+  <br>
+
+  <!-- Overall Stats -->
+  <img alt="Overall Stats" src="https://github-readme-stats.vercel.app/api?username=Abaan5467&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true">
+  <br>
+
+  <!-- Streak Stats -->
+  <img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Abaan5467&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true">
+  <br>
+
+  <!-- Top Languages -->
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abaan5467&theme=tokyonight&layout=compact">
+  <br>
+
+</div>
 
 ---
 
